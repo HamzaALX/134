@@ -127,7 +127,6 @@ body {
 }
 .product-image:hover {
   transform: scale(1.06);
-  
 }
 .product {
   text-align: center;
