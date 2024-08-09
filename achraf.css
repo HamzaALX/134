@@ -148,10 +148,7 @@ span {
   border-color: black;
   border-style: solid;
 }
-.product-image-list {
-  width: 200px; 
-  display: inline-block;
-}
+
 .description {
   
 }
@@ -207,6 +204,8 @@ span {
   object-fit: cover;
   object-position: center;
   margin-top: 30px;
+  display: inline-block;
+  cursor: pointer;
 }
 .product-image-list:hover {
   transform: scale(1.06);
